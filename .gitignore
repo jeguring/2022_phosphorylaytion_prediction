@@ -3,3 +3,5 @@ raw_data/
 *.fasta
 
 result/ignore_file/
+
+from_kw/ignore_file/
